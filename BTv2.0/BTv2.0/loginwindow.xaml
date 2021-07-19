@@ -1,0 +1,35 @@
+﻿<Window x:Class="BTv2._0.LogInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BTv2._0"
+        mc:Ignorable="d"
+        Title="Log-In" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Height="476.4" Width="378">
+    <Grid Margin="0,0,-0.8,-3.8">
+        <Grid.Background>
+            <ImageBrush ImageSource="LOGINFRAME.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Image Margin="20,13,67,268" Source="bt_logo_option.png" Stretch="Fill"/>
+        <TextBox x:Name="lidTB" HorizontalAlignment="Left" Height="30" Margin="91,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" FontSize="15" BorderBrush="#00000000" Cursor="IBeam"/>
+        <PasswordBox x:Name="passPB" Visibility="Visible" HorizontalAlignment="Left" Margin="91,316,0,0" VerticalAlignment="Top" Height="30" Width="217" FontSize="15" BorderBrush="#00000000" Cursor="IBeam"/>
+        <TextBox x:Name="passTB" Visibility="Hidden" IsReadOnly="True" HorizontalAlignment="Left" Margin="91,316,0,0" VerticalAlignment="Top" Height="30" Width="217" FontSize="15" BorderBrush="#00000000" Cursor="IBeam"/>
+        <Button x:Name="loginBTN" Content="LOGIN" HorizontalAlignment="Left" Margin="122,371,0,0" VerticalAlignment="Top" Width="133" Height="30" FontFamily="Consolas" FontSize="14" Foreground="White" FontWeight="Bold" BorderBrush="#00000000" Click="loginBTN_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1B3457" Offset="0"/>
+                    <GradientStop Color="#FF296ED3" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image Margin="36,259,275,155" Source="user_field.png" Stretch="Fill"/>
+
+        <Image Margin="45,309,287,92" Source="password_field.png" Stretch="Fill"/>
+        <Label Content="Login with your organization ID. &amp; password." Margin="10,197,2,0" VerticalAlignment="Top" Height="36" FontSize="15" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+        <CheckBox x:Name="showpassCB" Content="" HorizontalAlignment="Left" Margin="310,325,0,0" VerticalAlignment="Top" Height="15" Width="15" FontSize="8" Cursor="Hand" Checked="showpassCB_Checked" Unchecked="showpassCB_Unchecked"/>
+        <Label x:Name="showpassLBL" Content="SHOW" HorizontalAlignment="Left" Margin="322,322,0,0" VerticalAlignment="Top" FontSize="8" FontWeight="Bold"/>
+        <Label x:Name="virLBL" Content="Version 2.0" HorizontalAlignment="Left" Margin="294,420,0,0" VerticalAlignment="Top" Foreground="#FF636060" FontFamily="Consolas" FontWeight="Bold" FontSize="10"/>
+
+
+    </Grid>
+</Window>

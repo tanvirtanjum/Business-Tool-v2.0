@@ -1,0 +1,62 @@
+﻿<Window x:Class="BTv2._0.SalesHistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BTv2._0"
+        mc:Ignorable="d"
+        Title="Sales History" Height="551.35" Width="1068.1" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Window.Background>
+        <ImageBrush ImageSource="SELLSHISTORYFRAME.jpg"/>
+    </Window.Background>
+    <Grid Margin="0,0,-1.4,-4.4">
+        <DataGrid x:Name="salesDG" IsReadOnly="True" HorizontalAlignment="Left" Height="340" Margin="275,60,0,0" VerticalAlignment="Top" Width="764" FontSize="14" ColumnWidth="Auto" BorderBrush="Black" Background="Gainsboro" Cursor="No">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Turquoise"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <Label x:Name="slidLBL" Content="Sales ID:" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="pidLBL" Content="Product ID:" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label Content="Selling Quant.:" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="obtamntLBL" Content="Obt. Ammount:" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="proftLBL" Content="Profit:" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="cusnameLBL" Content="Cus. Name:" HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="cusconctLBL" Content="Cus. Contact:" HorizontalAlignment="Left" Margin="10,300,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="soldbyLBL" Content="Sold by:" HorizontalAlignment="Left" Margin="10,340,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <Label x:Name="saledateLBL" Content="Selling Date:" HorizontalAlignment="Left" Margin="10,380,0,0" VerticalAlignment="Top" FontFamily="Consolas" FontSize="14" FontWeight="Bold" Width="130" Height="30"/>
+        <TextBox x:Name="slidTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="pidTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="quantTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="obtamntTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="profitTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,220,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="cusnameTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="cuscontactTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="soldbyTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <TextBox x:Name="selldateTB" IsReadOnly="True" HorizontalAlignment="Left" Height="25" Margin="145,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <Button x:Name="backBTN" HorizontalAlignment="Left" Margin="1000,10,0,0" VerticalAlignment="Top" Width="40" Background="{x:Null}" BorderBrush="{x:Null}" Height="40" Cursor="Hand" Click="backBTN_Click">
+            <Image Height="35" Source="back_button__.png" Stretch="Fill" Width="35"/>
+        </Button>
+        <Button x:Name="logoutBTN" HorizontalAlignment="Left" Margin="1000,467,0,0" VerticalAlignment="Top" Width="40" Height="40" Cursor="Hand" BorderBrush="{x:Null}" Background="{x:Null}" Click="logoutBTN_Click">
+            <Image Height="35" Source="logout_button.png" Stretch="Fill" Width="35"/>
+        </Button>
+        <Button x:Name="showtableBTN" HorizontalAlignment="Left" Margin="1000,405,0,0" VerticalAlignment="Top" Width="40" Background="{x:Null}" BorderBrush="{x:Null}" Height="40" Cursor="Hand" Click="showtableBTN_Click">
+            <Image Height="30" Source="show_table_button.png" Stretch="Fill" Width="35"/>
+        </Button>
+        <Label x:Name="showtableLBL" Content="Show Table" HorizontalAlignment="Left" Margin="986,440,0,0" VerticalAlignment="Top" Width="65" Height="25" FontSize="10" FontFamily="Consolas" FontWeight="Bold"/>
+        <Label x:Name="searchLBL" Content="Sale ID:" HorizontalAlignment="Left" Margin="277,20,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Consolas" FontWeight="Bold"/>
+        <TextBox x:Name="searchTB" HorizontalAlignment="Left" Height="25" Margin="350,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}" FontSize="14" FontFamily="Consolas" Cursor="IBeam"/>
+        <Button x:Name="searchBTN" HorizontalAlignment="Left" Margin="481,13,0,0" VerticalAlignment="Top" Width="40" Height="40" BorderBrush="{x:Null}" Background="{x:Null}" Cursor="Hand" Click="searchBTN_Click">
+            <Image Height="25" Source="search_button.png" Stretch="Fill" Width="30"/>
+        </Button>
+        <Button x:Name="refreshBTN" HorizontalAlignment="Left" Margin="112,422,0,0" VerticalAlignment="Top" Width="60" Background="{x:Null}" BorderBrush="{x:Null}" Height="50" Cursor="Hand" Click="refreshBTN_Click">
+            <Image Height="35" Source="refresh_button.png" Stretch="Fill" Width="55"/>
+        </Button>
+        <Label x:Name="refershLBL" Content="Refresh" HorizontalAlignment="Left" Margin="111,472,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" FontFamily="Consolas"/>
+    </Grid>
+</Window>

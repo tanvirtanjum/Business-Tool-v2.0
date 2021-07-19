@@ -1,0 +1,84 @@
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe.config
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BTv2.0.pdb
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\MySql.Data.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\Google.Protobuf.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BouncyCastle.Crypto.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\Renci.SshNet.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\MySql.Data.xml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csprojAssemblyReference.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\App.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0_MarkupCompile.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0_MarkupCompile.lref
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.g.resources
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2._0.Properties.Resources.resources
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csproj.GenerateResource.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csproj.CopyComplete
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.exe
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.pdb
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\loginwindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\loginwindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\OptionWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\OptionWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\EmpListWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\EmpListWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\AboutMeWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\AboutMeWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\ChangePasswordWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\ChangePasswordWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\FAQWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\FAQWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\ProductListWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\ProductListWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\TakeNoteWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\TakeNoteWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\SellProductWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\SellProductWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\SalesHistoryWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\SalesHistoryWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe.manifest
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Debug\BTv2.0.application
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.exe.manifest
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Debug\BTv2.0.application
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe.config
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe.manifest
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BTv2.0.application
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BTv2.0.exe
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BTv2.0.pdb
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\Google.Protobuf.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\Renci.SshNet.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Debug\MySql.Data.xml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csprojAssemblyReference.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\AboutMeWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\ChangePasswordWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\EmpListWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\FAQWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\LogInWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\OptionWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\ProductListWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\SalesHistoryWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\SellProductWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\TakeNoteWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\App.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0_MarkupCompile.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0_MarkupCompile.lref
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\AboutMeWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\ChangePasswordWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\EmpListWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\FAQWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\LogInWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\OptionWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\ProductListWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\SalesHistoryWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\SellProductWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\TakeNoteWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.g.resources
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2._0.Properties.Resources.resources
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csproj.GenerateResource.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.exe.manifest
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.application
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csproj.CopyComplete
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.exe
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.pdb
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Debug\BTv2.0.csproj.CoreCompileInputs.cache

@@ -1,0 +1,84 @@
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe.config
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe.manifest
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BTv2.0.application
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BTv2.0.pdb
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\MySql.Data.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\Google.Protobuf.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\BouncyCastle.Crypto.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\Renci.SshNet.dll
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\bin\Release\MySql.Data.xml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.csprojAssemblyReference.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\AboutMeWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\ChangePasswordWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\EmpListWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\FAQWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\LogInWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\OptionWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\ProductListWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\SalesHistoryWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\SellProductWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\TakeNoteWindow.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\App.g.cs
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0_MarkupCompile.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0_MarkupCompile.lref
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\AboutMeWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\ChangePasswordWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\EmpListWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\FAQWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\LogInWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\OptionWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\ProductListWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\SalesHistoryWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\SellProductWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\TakeNoteWindow.baml
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.g.resources
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2._0.Properties.Resources.resources
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.csproj.GenerateResource.cache
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.exe.manifest
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.application
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.csproj.CopyComplete
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.exe
+W:\CODES\C#\FINAL\BTv2.0\BTv2.0\obj\Release\BTv2.0.pdb
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe.config
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe.manifest
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BTv2.0.application
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BTv2.0.exe
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BTv2.0.pdb
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\MySql.Data.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\Google.Protobuf.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\BouncyCastle.Crypto.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\Renci.SshNet.dll
+D:\Project Works\C#\BTv2.0\BTv2.0\bin\Release\MySql.Data.xml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.csprojAssemblyReference.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\AboutMeWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\ChangePasswordWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\EmpListWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\FAQWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\LogInWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\OptionWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\ProductListWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\SalesHistoryWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\SellProductWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\TakeNoteWindow.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\App.g.cs
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0_MarkupCompile.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0_MarkupCompile.lref
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\AboutMeWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\ChangePasswordWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\EmpListWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\FAQWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\LogInWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\OptionWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\ProductListWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\SalesHistoryWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\SellProductWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\TakeNoteWindow.baml
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.g.resources
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2._0.Properties.Resources.resources
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.csproj.GenerateResource.cache
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.exe.manifest
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.application
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.csproj.CopyComplete
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.exe
+D:\Project Works\C#\BTv2.0\BTv2.0\obj\Release\BTv2.0.pdb
